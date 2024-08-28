@@ -65,17 +65,24 @@ Here are some ideas to get you started:
   <a href="https://git-scm.com/" target="_blank"> 
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> &nbsp;&nbsp;
-  <a href="https://graphql.org" target="_blank">
+  <a href="https://graphql.org/" target="_blank">
    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
   </a> &nbsp;&nbsp;
- <a href="https://heroku.com" target="_blank">
+ <a href="https://heroku.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
  </a>&nbsp;&nbsp;
-  <a href="https://postman.com" target="_blank">
+  <a href="https://postman.com/" target="_blank">
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
-    <a href="https://flutter.dev" target="_blank">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="python" width="40" height="40"/>
+    <a href="https://flutter.dev/" target="_blank">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+    </a> 
+  &nbsp;&nbsp;
+    <a href="https://firebase.google.com/" target="_blank">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/>
+    </a>  &nbsp;&nbsp;
+    <a href="https://supabase.com/" target="_blank">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>
     </a> 
 </p>
 
